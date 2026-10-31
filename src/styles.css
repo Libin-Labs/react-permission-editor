@@ -1,0 +1,12 @@
+.lp-permission-editor {
+  overflow-x: auto;
+}
+.lp-permission-editor table {
+  border-collapse: collapse;
+}
+.lp-permission-editor th,
+.lp-permission-editor td {
+  padding: 0.5rem;
+  border: 1px solid #d0d5dd;
+  text-align: left;
+}
